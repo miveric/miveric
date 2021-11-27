@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miveric
 - 👀 I’m interested in p2e
-- 🌱 I’m currently learning layer2
+- 🌱 I’m currently learning layer2.blockchain
 - 💞️ I’m looking to collaborate on metaverse
 - 📫 How to reach me telegrem
 
